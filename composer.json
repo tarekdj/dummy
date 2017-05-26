@@ -10,5 +10,7 @@
     "issues": "https://www.drupal.org/project/issues/dummy",
     "source": "http://cgit.drupalcode.org/dummy"
   },
-  "require": { }
+  "require": {
+    "andrioli/hello-composer": "*"
+  }
 }
